@@ -47,7 +47,7 @@ body {
   text-align: center;
   text-transform: uppercase;
   color: rgb(255, 0, 0);
-  animation: 3000s credits linear;
+  animation: 2000s credits linear;
 }
 
 .movie {
